@@ -10,9 +10,7 @@ import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 
 /**
- * @author: wutao
  * @version: $Id:HessionWrapper.java 2014/03/29 15:18 $
- * @copyright www.jd.com <http://www.jd.com/>
  */
 public class HessionWrapper {
 
