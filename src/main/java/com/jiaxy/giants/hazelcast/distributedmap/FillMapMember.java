@@ -7,7 +7,7 @@ import com.hazelcast.core.HazelcastInstance;
 import java.util.Map;
 
 /**
- * Created by wutao on 14-4-13.
+ * Created by  on 14-4-13.
  */
 public class FillMapMember {
 
