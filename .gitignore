@@ -18,3 +18,5 @@ hs_err_pid*
 
 giants.iml
 target
+
+.DS_Store
